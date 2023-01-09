@@ -3,7 +3,7 @@
   [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauthamkrishna9991)
   [![Website](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gauthamkrishna9991)
   [![Reddit](https://img.shields.io/reddit/user-karma/combined/gauthamkrishna9991?label=Karma&logo=reddit&style=for-the-badge)](https://reddit.com/u/gauthamkrishna9991)
-  [![Follow](https://img.shields.io/github/followers/gauthamkrishna9991?label=Follow&logo=github&style=for-the-badge)](https://github.com/gauthamkrishna9991)
+  [![Follow](https://img.shields.io/github/followers/gouthamkrishnakv?label=Follow&logo=github&style=for-the-badge)](https://github.com/gouthamkrishnakv)
 <!--
 **gauthamkrishna9991/gauthamkrishna9991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
